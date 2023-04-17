@@ -1,0 +1,11 @@
+framework module ComInzoriStripe {
+  umbrella header "ComInzoriStripe.h"
+
+  export *
+  module * { export * }
+}
+
+module ComInzoriStripe.Swift {
+  header "ComInzoriStripe-Swift.h"
+  requires objc
+}

@@ -1,0 +1,18 @@
+".container": {
+	backgroundColor:"white"
+}
+
+"Label": {
+	width: 200,
+	height: 80,
+	color: "#02B3E4",
+    borderColor: '#02B3E4',
+    borderRadius: 10,
+    textAlign: 'center'
+}
+
+"#label": {
+	font: {
+		fontSize: 16
+	}
+}
