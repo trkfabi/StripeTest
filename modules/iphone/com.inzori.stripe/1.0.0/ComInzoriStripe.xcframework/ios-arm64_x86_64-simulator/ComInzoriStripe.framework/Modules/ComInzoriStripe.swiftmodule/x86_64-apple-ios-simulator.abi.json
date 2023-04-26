@@ -63,322 +63,238 @@
     {
       "filePath": "\/Users\/fabi\/Workspace\/Titanium\/Fluid\/Modules\/Stripe\/ios\/Classes\/ComInzoriStripeModule.swift",
       "kind": "StringLiteral",
-      "offset": 1217,
-      "length": 27,
-      "value": "\"[DEBUG] initStripe method\""
+      "offset": 1231,
+      "length": 34,
+      "value": "\"[DEBUG] startVerification method\""
     },
     {
       "filePath": "\/Users\/fabi\/Workspace\/Titanium\/Fluid\/Modules\/Stripe\/ios\/Classes\/ComInzoriStripeModule.swift",
       "kind": "IntegerLiteral",
-      "offset": 1311,
+      "offset": 1332,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/fabi\/Workspace\/Titanium\/Fluid\/Modules\/Stripe\/ios\/Classes\/ComInzoriStripeModule.swift",
       "kind": "StringLiteral",
-      "offset": 1400,
+      "offset": 1421,
       "length": 12,
       "value": "\"onComplete\""
     },
     {
       "filePath": "\/Users\/fabi\/Workspace\/Titanium\/Fluid\/Modules\/Stripe\/ios\/Classes\/ComInzoriStripeModule.swift",
       "kind": "StringLiteral",
-      "offset": 1483,
-      "length": 5,
-      "value": "\"url\""
+      "offset": 1522,
+      "length": 23,
+      "value": "\"verificationSessionId\""
     },
     {
       "filePath": "\/Users\/fabi\/Workspace\/Titanium\/Fluid\/Modules\/Stripe\/ios\/Classes\/ComInzoriStripeModule.swift",
       "kind": "StringLiteral",
-      "offset": 1504,
+      "offset": 1561,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/fabi\/Workspace\/Titanium\/Fluid\/Modules\/Stripe\/ios\/Classes\/ComInzoriStripeModule.swift",
       "kind": "StringLiteral",
-      "offset": 1662,
-      "length": 6,
-      "value": "\"POST\""
+      "offset": 1605,
+      "length": 20,
+      "value": "\"ephemeralKeySecret\""
     },
     {
       "filePath": "\/Users\/fabi\/Workspace\/Titanium\/Fluid\/Modules\/Stripe\/ios\/Classes\/ComInzoriStripeModule.swift",
       "kind": "StringLiteral",
-      "offset": 2047,
-      "length": 4,
-      "value": "\"id\""
+      "offset": 1641,
+      "length": 2,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/fabi\/Workspace\/Titanium\/Fluid\/Modules\/Stripe\/ios\/Classes\/ComInzoriStripeModule.swift",
       "kind": "StringLiteral",
-      "offset": 2108,
-      "length": 22,
-      "value": "\"ephemeral_key_secret\""
-    },
-    {
-      "filePath": "\/Users\/fabi\/Workspace\/Titanium\/Fluid\/Modules\/Stripe\/ios\/Classes\/ComInzoriStripeModule.swift",
-      "kind": "StringLiteral",
-      "offset": 2239,
-      "length": 9,
-      "value": "\"success\""
-    },
-    {
-      "filePath": "\/Users\/fabi\/Workspace\/Titanium\/Fluid\/Modules\/Stripe\/ios\/Classes\/ComInzoriStripeModule.swift",
-      "kind": "BooleanLiteral",
-      "offset": 2250,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/fabi\/Workspace\/Titanium\/Fluid\/Modules\/Stripe\/ios\/Classes\/ComInzoriStripeModule.swift",
-      "kind": "StringLiteral",
-      "offset": 2257,
-      "length": 6,
-      "value": "\"type\""
-    },
-    {
-      "filePath": "\/Users\/fabi\/Workspace\/Titanium\/Fluid\/Modules\/Stripe\/ios\/Classes\/ComInzoriStripeModule.swift",
-      "kind": "StringLiteral",
-      "offset": 2265,
-      "length": 5,
-      "value": "\"log\""
-    },
-    {
-      "filePath": "\/Users\/fabi\/Workspace\/Titanium\/Fluid\/Modules\/Stripe\/ios\/Classes\/ComInzoriStripeModule.swift",
-      "kind": "StringLiteral",
-      "offset": 2272,
-      "length": 9,
-      "value": "\"message\""
-    },
-    {
-      "filePath": "\/Users\/fabi\/Workspace\/Titanium\/Fluid\/Modules\/Stripe\/ios\/Classes\/ComInzoriStripeModule.swift",
-      "kind": "StringLiteral",
-      "offset": 2444,
-      "length": 9,
-      "value": "\"success\""
-    },
-    {
-      "filePath": "\/Users\/fabi\/Workspace\/Titanium\/Fluid\/Modules\/Stripe\/ios\/Classes\/ComInzoriStripeModule.swift",
-      "kind": "BooleanLiteral",
-      "offset": 2455,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/fabi\/Workspace\/Titanium\/Fluid\/Modules\/Stripe\/ios\/Classes\/ComInzoriStripeModule.swift",
-      "kind": "StringLiteral",
-      "offset": 2461,
-      "length": 9,
-      "value": "\"message\""
-    },
-    {
-      "filePath": "\/Users\/fabi\/Workspace\/Titanium\/Fluid\/Modules\/Stripe\/ios\/Classes\/ComInzoriStripeModule.swift",
-      "kind": "StringLiteral",
-      "offset": 2472,
-      "length": 17,
-      "value": "\"Sdk initialized\""
-    },
-    {
-      "filePath": "\/Users\/fabi\/Workspace\/Titanium\/Fluid\/Modules\/Stripe\/ios\/Classes\/ComInzoriStripeModule.swift",
-      "kind": "StringLiteral",
-      "offset": 2491,
-      "length": 6,
-      "value": "\"type\""
-    },
-    {
-      "filePath": "\/Users\/fabi\/Workspace\/Titanium\/Fluid\/Modules\/Stripe\/ios\/Classes\/ComInzoriStripeModule.swift",
-      "kind": "StringLiteral",
-      "offset": 2499,
-      "length": 5,
-      "value": "\"log\""
-    },
-    {
-      "filePath": "\/Users\/fabi\/Workspace\/Titanium\/Fluid\/Modules\/Stripe\/ios\/Classes\/ComInzoriStripeModule.swift",
-      "kind": "StringLiteral",
-      "offset": 2717,
+      "offset": 1760,
       "length": 6,
       "value": "\"logo\""
     },
     {
       "filePath": "\/Users\/fabi\/Workspace\/Titanium\/Fluid\/Modules\/Stripe\/ios\/Classes\/ComInzoriStripeModule.swift",
       "kind": "StringLiteral",
-      "offset": 3470,
+      "offset": 2377,
       "length": 30,
       "value": "\"Verification Flow Completed!\""
     },
     {
       "filePath": "\/Users\/fabi\/Workspace\/Titanium\/Fluid\/Modules\/Stripe\/ios\/Classes\/ComInzoriStripeModule.swift",
       "kind": "StringLiteral",
-      "offset": 3542,
+      "offset": 2441,
       "length": 9,
       "value": "\"success\""
     },
     {
       "filePath": "\/Users\/fabi\/Workspace\/Titanium\/Fluid\/Modules\/Stripe\/ios\/Classes\/ComInzoriStripeModule.swift",
       "kind": "BooleanLiteral",
-      "offset": 3553,
+      "offset": 2452,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/fabi\/Workspace\/Titanium\/Fluid\/Modules\/Stripe\/ios\/Classes\/ComInzoriStripeModule.swift",
       "kind": "StringLiteral",
-      "offset": 3559,
+      "offset": 2458,
       "length": 6,
       "value": "\"type\""
     },
     {
       "filePath": "\/Users\/fabi\/Workspace\/Titanium\/Fluid\/Modules\/Stripe\/ios\/Classes\/ComInzoriStripeModule.swift",
       "kind": "StringLiteral",
-      "offset": 3567,
+      "offset": 2466,
       "length": 8,
       "value": "\"status\""
     },
     {
       "filePath": "\/Users\/fabi\/Workspace\/Titanium\/Fluid\/Modules\/Stripe\/ios\/Classes\/ComInzoriStripeModule.swift",
       "kind": "StringLiteral",
-      "offset": 3577,
+      "offset": 2476,
       "length": 8,
       "value": "\"status\""
     },
     {
       "filePath": "\/Users\/fabi\/Workspace\/Titanium\/Fluid\/Modules\/Stripe\/ios\/Classes\/ComInzoriStripeModule.swift",
       "kind": "StringLiteral",
-      "offset": 3586,
+      "offset": 2485,
       "length": 15,
       "value": "\"flowCompleted\""
     },
     {
       "filePath": "\/Users\/fabi\/Workspace\/Titanium\/Fluid\/Modules\/Stripe\/ios\/Classes\/ComInzoriStripeModule.swift",
       "kind": "StringLiteral",
-      "offset": 3603,
+      "offset": 2502,
       "length": 9,
       "value": "\"message\""
     },
     {
       "filePath": "\/Users\/fabi\/Workspace\/Titanium\/Fluid\/Modules\/Stripe\/ios\/Classes\/ComInzoriStripeModule.swift",
       "kind": "StringLiteral",
-      "offset": 3614,
+      "offset": 2513,
       "length": 30,
       "value": "\"Verification Flow Completed!\""
     },
     {
       "filePath": "\/Users\/fabi\/Workspace\/Titanium\/Fluid\/Modules\/Stripe\/ios\/Classes\/ComInzoriStripeModule.swift",
       "kind": "StringLiteral",
-      "offset": 3891,
+      "offset": 2758,
       "length": 29,
       "value": "\"Verification Flow Canceled!\""
     },
     {
       "filePath": "\/Users\/fabi\/Workspace\/Titanium\/Fluid\/Modules\/Stripe\/ios\/Classes\/ComInzoriStripeModule.swift",
       "kind": "StringLiteral",
-      "offset": 3962,
+      "offset": 2821,
       "length": 9,
       "value": "\"success\""
     },
     {
       "filePath": "\/Users\/fabi\/Workspace\/Titanium\/Fluid\/Modules\/Stripe\/ios\/Classes\/ComInzoriStripeModule.swift",
       "kind": "BooleanLiteral",
-      "offset": 3973,
+      "offset": 2832,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/fabi\/Workspace\/Titanium\/Fluid\/Modules\/Stripe\/ios\/Classes\/ComInzoriStripeModule.swift",
       "kind": "StringLiteral",
-      "offset": 3979,
+      "offset": 2838,
       "length": 6,
       "value": "\"type\""
     },
     {
       "filePath": "\/Users\/fabi\/Workspace\/Titanium\/Fluid\/Modules\/Stripe\/ios\/Classes\/ComInzoriStripeModule.swift",
       "kind": "StringLiteral",
-      "offset": 3987,
+      "offset": 2846,
       "length": 8,
       "value": "\"status\""
     },
     {
       "filePath": "\/Users\/fabi\/Workspace\/Titanium\/Fluid\/Modules\/Stripe\/ios\/Classes\/ComInzoriStripeModule.swift",
       "kind": "StringLiteral",
-      "offset": 3997,
+      "offset": 2856,
       "length": 8,
       "value": "\"status\""
     },
     {
       "filePath": "\/Users\/fabi\/Workspace\/Titanium\/Fluid\/Modules\/Stripe\/ios\/Classes\/ComInzoriStripeModule.swift",
       "kind": "StringLiteral",
-      "offset": 4006,
+      "offset": 2865,
       "length": 14,
       "value": "\"flowCanceled\""
     },
     {
       "filePath": "\/Users\/fabi\/Workspace\/Titanium\/Fluid\/Modules\/Stripe\/ios\/Classes\/ComInzoriStripeModule.swift",
       "kind": "StringLiteral",
-      "offset": 4022,
+      "offset": 2881,
       "length": 9,
       "value": "\"message\""
     },
     {
       "filePath": "\/Users\/fabi\/Workspace\/Titanium\/Fluid\/Modules\/Stripe\/ios\/Classes\/ComInzoriStripeModule.swift",
       "kind": "StringLiteral",
-      "offset": 4033,
+      "offset": 2892,
       "length": 29,
       "value": "\"Verification Flow Canceled!\""
     },
     {
       "filePath": "\/Users\/fabi\/Workspace\/Titanium\/Fluid\/Modules\/Stripe\/ios\/Classes\/ComInzoriStripeModule.swift",
       "kind": "StringLiteral",
-      "offset": 4341,
+      "offset": 3168,
       "length": 27,
       "value": "\"Verification Flow Failed!\""
     },
     {
       "filePath": "\/Users\/fabi\/Workspace\/Titanium\/Fluid\/Modules\/Stripe\/ios\/Classes\/ComInzoriStripeModule.swift",
       "kind": "StringLiteral",
-      "offset": 4466,
+      "offset": 3277,
       "length": 9,
       "value": "\"success\""
     },
     {
       "filePath": "\/Users\/fabi\/Workspace\/Titanium\/Fluid\/Modules\/Stripe\/ios\/Classes\/ComInzoriStripeModule.swift",
       "kind": "BooleanLiteral",
-      "offset": 4477,
+      "offset": 3288,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/fabi\/Workspace\/Titanium\/Fluid\/Modules\/Stripe\/ios\/Classes\/ComInzoriStripeModule.swift",
       "kind": "StringLiteral",
-      "offset": 4483,
+      "offset": 3294,
       "length": 6,
       "value": "\"type\""
     },
     {
       "filePath": "\/Users\/fabi\/Workspace\/Titanium\/Fluid\/Modules\/Stripe\/ios\/Classes\/ComInzoriStripeModule.swift",
       "kind": "StringLiteral",
-      "offset": 4491,
+      "offset": 3302,
       "length": 8,
       "value": "\"status\""
     },
     {
       "filePath": "\/Users\/fabi\/Workspace\/Titanium\/Fluid\/Modules\/Stripe\/ios\/Classes\/ComInzoriStripeModule.swift",
       "kind": "StringLiteral",
-      "offset": 4501,
+      "offset": 3312,
       "length": 8,
       "value": "\"status\""
     },
     {
       "filePath": "\/Users\/fabi\/Workspace\/Titanium\/Fluid\/Modules\/Stripe\/ios\/Classes\/ComInzoriStripeModule.swift",
       "kind": "StringLiteral",
-      "offset": 4510,
+      "offset": 3321,
       "length": 12,
       "value": "\"flowFailed\""
     },
     {
       "filePath": "\/Users\/fabi\/Workspace\/Titanium\/Fluid\/Modules\/Stripe\/ios\/Classes\/ComInzoriStripeModule.swift",
       "kind": "StringLiteral",
-      "offset": 4524,
+      "offset": 3335,
       "length": 9,
       "value": "\"message\""
     }

@@ -12,6 +12,14 @@
 }
 
 "#label": {
+	top: 100,
+	font: {
+		fontSize: 16
+	}
+}
+
+"#create": {
+	top: 300,
 	font: {
 		fontSize: 16
 	}

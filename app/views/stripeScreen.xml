@@ -2,5 +2,6 @@
 	<Window id="win" class="container">
         
 		<Label id="label" onClick="doClick">Start Verification</Label>
+		
 	</Window>
 </Alloy>
